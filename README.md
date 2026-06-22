@@ -3,7 +3,6 @@
 
 <br/><br/>
 
-<img src="assets/profile.png<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:00C7B7&height=220&section=header&text=Nikhil%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Chatbot%20Builder%20%7C%20Level%20Up%20Coder&descAlignY=55&descSize=18" width="100%"/>
 
