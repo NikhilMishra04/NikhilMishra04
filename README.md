@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Nikhil Mishra Banner"/>
 
 <br/><br/>
 
@@ -8,7 +7,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:00C7B7&height=220&section=header&text=Nikhil%20Mishra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Chatbot%20Builder%20%7C%20Level%20Up%20Coder&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="profile.png" width="160" style="border-radius:50%;border:4px solid #00C7B7;" alt="Nikhil Mishra"/>
 
 <br/>
 
