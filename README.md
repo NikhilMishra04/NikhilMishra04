@@ -25,7 +25,7 @@
 ║  PLAYER: Nikhil Mishra                            ║
 ║  CLASS:  AI Engineer / Full-Stack Dev             ║
 ║  GUILD:  UIT RGPV Shivpuri — B.Tech CSE           ║
-║  LEVEL:  CGPA 7.34 / 10                           ║
+║  LEVEL:  CGPA 7.50 / 10                           ║
 ║  STATUS: 🟢 Open to Internship Quests             ║
 ╚══════════════════════════════════════════════════╝
 ```
